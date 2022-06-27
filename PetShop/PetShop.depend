@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1656349273 source:/var/www/Diamba/PetShop/main.cpp
+	"Pets.h"
+
+1656353386 /var/www/Diamba/PetShop/Pets.h
+	<iostream>
+
+1656353701 source:/var/www/Diamba/PetShop/Pets.cpp
+	"Pets.h"
+
